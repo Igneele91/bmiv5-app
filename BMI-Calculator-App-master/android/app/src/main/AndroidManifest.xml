@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bmi_calculator_app">
    <application
-        android:label="Fitbit"
+        android:label="BMIv5"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
